@@ -1,7 +1,7 @@
 # WDDF Level 5 Assessment Repository
 
 **Candidate Name:** Md. Golam Maula  
-**Candidate ID:** 1040  
+**Trainer:** [Trainer Name]  
 **Program:** Web Design & Development Framework (WDDF) Level 5  
 
 ---
@@ -15,7 +15,7 @@ This repository contains the complete assessment submission for **WDDF Level 5**
 ## 📁 Repository Directory & File Structure
 
 ```text
-1040_Md.Golam Maula/
+Md.Golam Maula/
 ├── README.md                                    # Root Documentation & Repository Overview
 ├── Job-1/                                       # Frontend Web Application (React + Vite)
 │   ├── CODING_PLAN.md                           # Architecture & Development Roadmap
@@ -216,4 +216,4 @@ To run and verify the modules in this repository, ensure the following software 
 | **Job-4** | E-Commerce Project Proposal | Word (DOCX), PDF Documentation | ✅ Completed |
 
 ---
-*Created for WDDF Level 5 Assessment Submission by Candidate ID 1040 (Md. Golam Maula).*
+*Created for WDDF Level 5 Assessment Submission by Md. Golam Maula.*
