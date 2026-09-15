@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Urban Slim Fit Cotton Shirt",
+    "category": "Men's Fashion",
+    "price": 1450,
+    "sku": "UB-M-SH-001",
+    "stock": 15,
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Premium 100% breathable cotton shirt tailored for modern men. Ideal for office and casual wear.",
+    "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Classic Denim Jacket",
+    "category": "Men's Fashion",
+    "price": 2850,
+    "sku": "UB-M-JK-002",
+    "stock": 8,
+    "sizes": ["M", "L", "XL"],
+    "description": "Rugged washed denim jacket with durable stitching and functional chest pockets.",
+    "image": "https://images.unsplash.com/photo-1576995853123-5a10305d93c0?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Elegance Floral Summer Dress",
+    "category": "Women's Fashion",
+    "price": 2200,
+    "sku": "UB-W-DR-003",
+    "stock": 12,
+    "sizes": ["S", "M", "L"],
+    "description": "Flowy floral print maxi dress featuring soft viscose fabric and adjustable waist tie.",
+    "image": "https://images.unsplash.com/photo-1572804013309-59a88b7e92f1?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 4,
+    "name": "High-Waist Tailored Trousers",
+    "category": "Women's Fashion",
+    "price": 1850,
+    "sku": "UB-W-TR-004",
+    "stock": 10,
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Sleek pleated formal trousers designed for elegance, comfort, and versatile styling.",
+    "image": "https://images.unsplash.com/photo-1594633312681-425c7b97ccd1?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Minimalist Leather Crossbody Bag",
+    "category": "Accessories",
+    "price": 1950,
+    "sku": "UB-A-BG-005",
+    "stock": 6,
+    "sizes": ["One Size"],
+    "description": "Genuine leather shoulder bag with secure magnetic closure and multiple card slots.",
+    "image": "https://images.unsplash.com/photo-1548036328-c9fa89d128fa?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Urban Polarized Sunglasses",
+    "category": "Accessories",
+    "price": 1200,
+    "sku": "UB-A-SG-006",
+    "stock": 20,
+    "sizes": ["One Size"],
+    "description": "UV400 protection polarized lenses with lightweight matte alloy frame.",
+    "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Chic Linen Kurti Top",
+    "category": "Women's Fashion",
+    "price": 1600,
+    "sku": "UB-W-KT-007",
+    "stock": 14,
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Contemporary linen tunic top with embroidered neckline and comfortable relaxed fit.",
+    "image": "https://images.unsplash.com/photo-1583391733956-3750e0ff4e8b?w=600&auto=format&fit=crop&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Limited Edition Silk Scarf",
+    "category": "Accessories",
+    "price": 950,
+    "sku": "UB-A-SC-008",
+    "stock": 0,
+    "sizes": ["One Size"],
+    "description": "Pure silk printed scarf with hand-rolled edges. Currently sold out due to high demand.",
+    "image": "https://images.unsplash.com/photo-1601924994987-69e26d50dc26?w=600&auto=format&fit=crop&q=80"
+  }
+]

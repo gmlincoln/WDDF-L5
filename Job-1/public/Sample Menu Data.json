@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Tikka Masala",
+    "category": "Main Course",
+    "price": 450.00,
+    "is_veg": false,
+    "available": true,
+    "description": "Tender grilled chicken chunks cooked in a spicy, rich tomato cream gravy.",
+    "image": "https://images.unsplash.com/photo-1565557623262-b51c2513a641?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Paneer Butter Masala",
+    "category": "Main Course",
+    "price": 380.00,
+    "is_veg": true,
+    "available": true,
+    "description": "Fresh cottage cheese cubes cooked in a velvety tomato butter gravy with spices.",
+    "image": "https://images.unsplash.com/photo-1631452180519-c014fe946bc7?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "Vegetable Spring Rolls",
+    "category": "Appetizer",
+    "price": 220.00,
+    "is_veg": true,
+    "available": true,
+    "description": "Crispy golden rolls filled with shredded fresh vegetables and herbs.",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Grilled Chicken",
+    "category": "Main Course",
+    "price": 480.00,
+    "is_veg": false,
+    "available": false,
+    "description": "Succulent chicken breast marinated in fresh herbs and flame-grilled.",
+    "image": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Gulab Jamun",
+    "category": "Dessert",
+    "price": 150.00,
+    "is_veg": true,
+    "available": true,
+    "description": "Traditional warm milk-solid dumplings soaked in aromatic rose syrup.",
+    "image": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Mango Lassi",
+    "category": "Drinks",
+    "price": 120.00,
+    "is_veg": true,
+    "available": true,
+    "description": "Chilled refreshing yogurt smoothie blended with ripe Alphonso mangoes.",
+    "image": "https://images.unsplash.com/photo-1527661591475-527312dd65f5?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Spice Garden Special Combo",
+    "category": "Combo",
+    "price": 750.00,
+    "is_veg": false,
+    "available": true,
+    "description": "Includes Chicken Tikka, Garlic Naan, Basmati Rice, and Mango Lassi.",
+    "image": "https://images.unsplash.com/photo-1585937421612-70a008356fbe?auto=format&fit=crop&w=600&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Garlic Naan",
+    "category": "Appetizer",
+    "price": 90.00,
+    "is_veg": true,
+    "available": true,
+    "description": "Freshly baked tandoori flatbread brushed with garlic and butter.",
+    "image": "https://images.unsplash.com/photo-1601050690117-94f5f6fa8bd7?auto=format&fit=crop&w=600&q=80"
+  }
+]

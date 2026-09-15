@@ -1,0 +1,30 @@
+[
+  {
+    "student_code": "STU-LEG-101",
+    "full_name": "Tariqul Islam",
+    "dept": "Software Engineering",
+    "score": 91.5,
+    "contact_email": "tariqul.islam@legacy.edu"
+  },
+  {
+    "student_code": "STU-LEG-102",
+    "full_name": "Nusrat Jahan",
+    "dept": "Cyber Security",
+    "score": 87.0,
+    "contact_email": "nusrat.jahan@legacy.edu"
+  },
+  {
+    "student_code": "STU-LEG-103",
+    "full_name": "Sabbir Hossain",
+    "dept": "Database Management",
+    "score": 83.2,
+    "contact_email": "sabbir.hossain@legacy.edu"
+  },
+  {
+    "student_code": "STU-LEG-104",
+    "full_name": "Farhana Yasmin",
+    "dept": "Web Applications",
+    "score": 95.0,
+    "contact_email": "farhana.yasmin@legacy.edu"
+  }
+]

@@ -1,0 +1,13 @@
+[2026-09-12 09:55:16] SMS SENT to 01711223344 | Order #90 Confirmed | Total: 1550 BDT | Payment: Mobile Banking (bKash / Nagad) | Status: processing
+[2026-09-12 09:55:21] SMS SENT to 01899887766 | Order #91 Confirmed | Total: 2300 BDT | Payment: Cash on Delivery | Status: processing
+[2026-09-12 10:33:36] SMS SENT to  | Order #93 Confirmed | Total: 1550 BDT | Payment: Cash on Delivery (COD) | Status: processing
+[2026-09-12 10:49:54] SMS SENT to 01700000000 | Order #96 Confirmed | Total: 2485 BDT | Payment: SSLCommerz Sandbox (Visa / Mastercard Card) | Status: processing
+[2026-09-12 10:50:00] SMS SENT to 01700000000 | Order #96 Confirmed | Total: 2485 BDT | Payment: SSLCommerz Online Gateway (Cards / bKash / Nagad / Net Banking) | Status: processing
+[2026-09-12 10:51:04] SMS SENT to  | Order #97 Confirmed | Total: 1950 BDT | Payment: SSLCommerz Sandbox (Nagad Mobile Sandbox) | Status: processing
+[2026-09-12 10:51:06] SMS SENT to  | Order #97 Confirmed | Total: 1950 BDT | Payment: SSLCommerz Online Gateway (Cards / bKash / Nagad / Net Banking) | Status: processing
+[2026-09-12 11:09:16] SMS SENT to  | Order #98 | Total: 1700 BDT | SSLCommerz Demo (DBBL Nexus) | Status: processing
+[2026-09-12 11:09:18] SMS SENT to  | Order #98 Confirmed | Total: 1700 BDT | Payment: SSLCommerz Online Gateway (Cards / bKash / Nagad / Net Banking) | Status: processing
+[2026-09-12 11:11:58] Order #99 | SSLCommerz SUCCESS | TranID: URBANFIT-99-1789211490 | Amount: 1700 BDT
+[2026-09-12 11:12:01] SMS SENT to  | Order #99 Confirmed | Total: 1700 BDT | Payment: SSLCommerz Online Gateway (Cards / bKash / Nagad / Net Banking) | Status: processing
+[2026-09-13 05:01:20] Order #101 | SSLCommerz SUCCESS | TranID: URBANFIT-101-1789275642 | Amount: 2950 BDT
+[2026-09-13 05:01:23] SMS SENT to  | Order #101 Confirmed | Total: 2950 BDT | Payment: SSLCommerz Online Gateway (Cards / bKash / Nagad / Net Banking) | Status: processing
