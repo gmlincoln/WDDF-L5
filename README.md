@@ -1,7 +1,6 @@
 # WDDF Level 5 Assessment Repository
 
-**Candidate Name:** Md. Golam Maula  
-**Trainer:** [Trainer Name]  
+**Trainer:** Md. Golam Maula  
 **Program:** Web Design & Development Framework (WDDF) Level 5  
 
 ---
