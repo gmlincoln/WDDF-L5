@@ -214,5 +214,3 @@ To run and verify the modules in this repository, ensure the following software 
 | **Job-3 (WooCommerce)** | UrbanFit BD E-Commerce | WordPress, WooCommerce, Custom Automation | ✅ Completed |
 | **Job-4** | E-Commerce Project Proposal | Word (DOCX), PDF Documentation | ✅ Completed |
 
----
-*Created for WDDF Level 5 Assessment Submission by Md. Golam Maula.*
